@@ -10,8 +10,8 @@ Si prefieres leer en español, [haz clic aquí para ver la versión en español]
 
 - [Description](#-description)
 - [Pricing](#-pricing)
-- [How to Get the Service](#️-how-to-get-the-service)
-- [Configuration Instructions](#-usage-instructions)
+- [How to Get the Service](#how-to-get-the-service)
+- [Configuration Instructions](#configuration-instructions)
 - [Advantages and Benefits](#-advantages-and-benefits)
 - [Limitations](#-limitations)
 - [Support Request](#-support-request)
@@ -87,7 +87,8 @@ Si prefieres leer en español, [haz clic aquí para ver la versión en español]
 
 📆 **Single monthly plan:** 30 days per payment.  
 💰 **Payment methods:** Only Bitcoin and Credit Card.  
-📶 **Connection limited to 1 simultaneous device.**  
+📶 **Connection limited to 1 simultaneous device.**
+📶 **Unlocking on websites like Netflix, etc., is not guaranteed.**
 ❌ **Responsible use:** Illegal activities are strictly prohibited.  
 
 ## 🆘 Support Request
