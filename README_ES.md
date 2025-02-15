@@ -10,7 +10,7 @@ Si prefieres leer en inglés, [haz clic aquí para ver la versión en inglés](R
 
 - [Descripción](#-descripción)
 - [Precios](#-precios)
-- [Como Obtener el Servicio](#️-como-obtener-el-servicio)
+- [Pasos para contratar el Servicio](#️-pasos-para-contratar-el-servicio)
 - [Instrucciones de Configuración](#-instrucciones-de-configuración)
 - [Ventajas y Beneficios](#-ventajas-y-beneficios)
 - [Limitaciones](#-limitaciones)
@@ -28,7 +28,7 @@ Si prefieres leer en inglés, [haz clic aquí para ver la versión en inglés](R
 💳 **Métodos de Pago:** Bitcoin (Lightning) y Tarjeta de Crédito.  
 > **Nota:** Se aplicará un cargo adicional del 3% para los pagos realizados con tarjeta de crédito.
 
-## ❓ ¿Cómo Obtener el Servicio?
+## ✔ Pasos para contratar el Servicio
 
 1. **No es necesario registrarse:** No necesitas crear una cuenta ni proporcionar datos personales.
 2. **Instalar Telegram:** Descarga la aplicación y configura tu nombre de usuario.
