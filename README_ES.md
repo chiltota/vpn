@@ -24,8 +24,10 @@ Si prefieres leer en inglés, [haz clic aquí para ver la versión en inglés](R
 
 ## 💰 Precios
 
-✔ **Plan Mensual:** $4.00 USD por 30 días de servicio.  
-💳 **Métodos de Pago:** Bitcoin (Lightning) y Tarjeta de Crédito.  
+✔ **Plan mensual:** 💸 $4.00 USD por 30 días de servicio **(precio promocional de lanzamiento)**.
+
+💳 **Métodos de pago:** Bitcoin (Lightning) y Tarjeta de Crédito.
+
 > **Nota:** Se aplicará un cargo adicional del 3% para los pagos realizados con tarjeta de crédito.
 
 ## ✔ Pasos para contratar el Servicio
