@@ -1,108 +1,110 @@
-# Chiltota VPN - Seguro & An¨®nimo con WireGuard y Bitcoin (Lightning)
+# Chiltota VPN - Seguro y AnÃ³nimo con WireGuard y Bitcoin (Lightning)
 
-*"No pierdes nada, ganas privacidad"*
+**_No pierdes nada, ganas privacidad_**
 
-Bienvenido a la documentaci¨®n de **ChiltotaVPN**.
+Bienvenido a la documentaciÃ³n de **Chiltota VPN**.
 
-If you prefer to read in English, [click here to view the English version](README.md).
+Si prefieres leer en inglÃ©s, [haz clic aquÃ­ para ver la versiÃ³n en inglÃ©s](README.md).
 
-## ?? ¨ªndice
+## ğŸ“Œ Ãndice
 
-- [Descripci¨®n](#-descripci¨®n)
+- [DescripciÃ³n](#-descripciÃ³n)
 - [Precios](#-precios)
-- [C¨®mo Obtener el Servicio](#?-c¨®mo-obtener-el-servicio)
-- [Indicaciones de Uso](#-indicaciones-de-uso)
+- [CÃ³mo Obtener el Servicio](#ï¸-cÃ³mo-obtener-el-servicio)
+- [Instrucciones de ConfiguraciÃ³n](#-instrucciones-de-configuraciÃ³n)
 - [Ventajas y Beneficios](#-ventajas-y-beneficios)
 - [Limitaciones](#-limitaciones)
-- [Solicitud de Asistencia](#-solicitud-de-asistencia)
+- [Solicitud de Soporte](#-solicitud-de-soporte)
 - [Descargo de Responsabilidad](#-descargo-de-responsabilidad)
 - [Agradecimientos](#-agradecimientos)
 
-## ?? Descripci¨®n
+## ğŸ” DescripciÃ³n
 
-**Chiltota VPN** es una soluci¨®n segura y privada para navegar en l¨ªnea, proteger tus datos y garantizar el anonimato. Basado en **WireGuard**, ofrece una conexi¨®n r¨¢pida, confiable y f¨¢cil de configurar. Integrado para pagar con **Bitcoin** y proteger tu privacidad, sin registros.
+**Chiltota VPN** es una soluciÃ³n segura y privada para navegar en lÃ­nea, proteger tus datos y garantizar el anonimato. Construida sobre **WireGuard**, ofrece una conexiÃ³n rÃ¡pida, confiable y fÃ¡cil de configurar. Integrada con pagos en **Bitcoin** para salvaguardar tu privacidad, sin necesidad de registro.
 
-## ?? Precios
+## ğŸ’° Precios
 
-? **Plan Mensual:** $12.99 USD por 30 d¨ªas de servicio.  
-?? **M¨¦todos de Pago:** Bitcoin (Lightning) y Tarjeta de Cr¨¦dito.
+âœ” **Plan Mensual:** $4.00 USD por 30 dÃ­as de servicio.  
+ğŸ’³ **MÃ©todos de Pago:** Bitcoin (Lightning) y Tarjeta de CrÃ©dito.  
+> **Nota:** Se aplicarÃ¡ un cargo adicional del 3% para los pagos realizados con tarjeta de crÃ©dito.
 
-## ? ?C¨®mo Obtener el Servicio?
+## â“ Â¿CÃ³mo Obtener el Servicio?
 
-1. **Sin registro:** No se requiere crear una cuenta ni proporcionar datos personales.
-2. **Instala Telegram:** Descarga la app y configura tu username.
-3. **Busca el bot:** ?? [https://t.me/chiltotabot](https://t.me/chiltotabot)
-4. **Env¨ªa un comando:** `/vpn BTC` (Bitcoin) o `/vpn CARD` (Tarjeta de Cr¨¦dito).
-5. **Confirma el pago:**
-   - ? Si elegiste **Bitcoin**, usa **Lightning Network**.
-   - ?? Si elegiste **Tarjeta de Cr¨¦dito**, recibir¨¢s un enlace de pago.
-6. **Descarga el archivo de configuraci¨®n:** Despu¨¦s del pago, el bot te dar¨¢ el archivo **WireGuard**.
-7. **Configura y navega de manera segura.**
+1. **No es necesario registrarse:** No necesitas crear una cuenta ni proporcionar datos personales.
+2. **Instalar Telegram:** Descarga la aplicaciÃ³n y configura tu nombre de usuario.
+3. **Encontrar el bot:** ğŸ¤– [https://t.me/chiltotabot](https://t.me/chiltotabot)
+4. **Enviar un comando:** `/vpn BTC` (Bitcoin) o `/vpn CARD` (Tarjeta de CrÃ©dito).
+5. **Confirmar el pago:**
+   - âš¡ Si usas **Bitcoin**, paga a travÃ©s de **Lightning Network**.
+   - ğŸ¦ Si usas **Tarjeta de CrÃ©dito**, recibirÃ¡s un enlace de pago.
+6. **Descargar el archivo de configuraciÃ³n:** DespuÃ©s del pago, el bot te proporcionarÃ¡ tu archivo **WireGuard**.
+7. **ConfigÃºralo y navega de forma segura.**
 
-## ?? Indicaciones de Uso
+## ğŸ“– Instrucciones de ConfiguraciÃ³n
 
 ### **Requisitos Previos**
 
-?? Conexi¨®n a Internet activa  
-?? Dispositivo compatible con **WireGuard** (*Windows, macOS, Linux, Android, iOS*)  
-?? Archivo de configuraci¨®n obtenido tras la compra  
+ğŸ“¶ ConexiÃ³n activa a Internet  
+ğŸ’» Dispositivo compatible con **WireGuard** (*Windows, macOS, Linux, Android, iOS*)  
+ğŸ“‘ Archivo de configuraciÃ³n recibido despuÃ©s de la compra  
 
-### **Instalaci¨®n y Configuraci¨®n**
+### **InstalaciÃ³n y ConfiguraciÃ³n**
 
-#### **?? Windows | ?? macOS**
-1. **Descarga WireGuard:** [Windows](https://www.wireguard.com/install/) | [macOS](https://www.wireguard.com/install/)
-2. Abre **WireGuard** y **importa el archivo `.conf`**.
+#### **ğŸ–¥ Windows | ğŸ’» macOS**
+1. **Descargar WireGuard:** [Windows](https://www.wireguard.com/install/) | [macOS](https://www.wireguard.com/install/)
+2. Abre **WireGuard** e **importa el archivo `.conf`**.
 3. Haz clic en **Activar**.
 
-#### **?? Linux (Ubuntu/Debian)**  
+#### **ğŸ§ Linux (Ubuntu/Debian)**  
 > `sudo apt update && sudo apt install wireguard`  
-> `sudo wg-quick up nombre-del-archivo.conf`
+> `sudo wg-quick up your-config-file.conf`
 
-#### **?? Android | ?? iOS**
-1. **Descarga WireGuard:** [Android](https://play.google.com/store/apps/details?id=com.wireguard.android) | [iOS](https://apps.apple.com/app/wireguard/id1441195209)
-2. Abre la app y **carga el archivo `.conf`**.
-3. Activa la conexi¨®n.
+#### **ğŸ“± Android | ğŸ iOS**
+1. **Descargar WireGuard:** [Android](https://play.google.com/store/apps/details?id=com.wireguard.android) | [iOS](https://apps.apple.com/app/wireguard/id1441195209)
+2. Abre la app e **importa el archivo `.conf`**.
+3. Activa la conexiÃ³n.
 
-### **?? Validaci¨®n**
+### **ğŸ›  ValidaciÃ³n**
 - [ipleak.net](https://ipleak.net) - Verifica tu IP.
-- [dnsleaktest.com](https://www.dnsleaktest.com/) - Prueba de fuga DNS.
+- [dnsleaktest.com](https://www.dnsleaktest.com/) - Prueba para detectar fugas DNS.
 
-## ? Ventajas y Beneficios
+## âœ… Ventajas y Beneficios
 
-### **?? Seguridad y Privacidad**
-? **No logs:** No almacenamos informaci¨®n de conexi¨®n.  
-?? **Ubicaci¨®n Segura:** Servidores en Islandia para m¨¢xima privacidad.  
-?? **Cifrado Avanzado:** WireGuard con **ChaCha20 y PFS**.  
+### **ğŸ” Seguridad y Privacidad**
+âœ” **Sin registros:** No almacenamos datos de conexiÃ³n.  
+ğŸ›¡ **UbicaciÃ³n segura:** Servidores en Islandia para mÃ¡xima privacidad.  
+ğŸ”’ **Cifrado avanzado:** WireGuard con **ChaCha20 y PFS**.  
 
-### **??? Anonimato Total**
-? **Sin cuentas ni emails.**  
-?? **Pagos an¨®nimos con Bitcoin Lightning.**  
+### **ğŸ•µï¸ Anonimato Completo**
+âš¡ **No se requieren cuentas ni correos electrÃ³nicos.**  
+ğŸ’° **Pagos anÃ³nimos con Bitcoin Lightning.**  
 
-### **?? Alto Rendimiento**
-?? **Servidores optimizados con RAM-only.**  
-?? **F¨¢cil configuraci¨®n en cualquier dispositivo.**  
+### **ğŸš€ Alto Rendimiento**
+ğŸ”¥ **Servidores optimizados solo con RAM.**  
+ğŸ›  **FÃ¡cil configuraciÃ³n en cualquier dispositivo.**  
 
-## ? Limitaciones
+## âš  Limitaciones
 
-?? **Plan ¨²nico mensual:** 30 d¨ªas por pago.  
-?? **M¨¦todos de pago:** Solo Bitcoin y Tarjeta de Cr¨¦dito.  
-?? **Conexi¨®n en 1 dispositivo simult¨¢neo.**  
-? **Uso responsable:** Prohibido para actividades ilegales.  
+ğŸ“† **Plan mensual Ãºnico:** 30 dÃ­as por pago.  
+ğŸ’° **MÃ©todos de pago:** Solo Bitcoin y Tarjeta de CrÃ©dito.  
+ğŸ“¶ **ConexiÃ³n limitada a 1 dispositivo simultÃ¡neo.** 
+ğŸ“¶ **No se garantiza desbloqueo en webs como Netflix. Etc.** 
+âŒ **Uso responsable:** Las actividades ilegales estÃ¡n estrictamente prohibidas.  
 
-## ?? Solicitud de Asistencia
+## ğŸ†˜ Solicitud de Soporte
 
-?? **Email:** [chiltota@proton.me](mailto:chiltota@proton.me)  
-?? **Telegram:** [https://t.me/IshiOk](https://t.me/IshiOk)  
+ğŸ“§ **Correo electrÃ³nico:** [chiltota@proton.me](mailto:chiltota@proton.me)  
+ğŸ’¬ **Telegram:** [https://t.me/IshiOk](https://t.me/IshiOk)  
 
-## ? Disclaimer (Descargo de Responsabilidad)
+## âš– Descargo de Responsabilidad
 
-- **Dependencia de Infraestructura:** No garantizamos **100% disponibilidad**.
-- **No garantiza anonimato total:** La privacidad depende del usuario.
-- **Restricciones legales:** Es responsabilidad del usuario conocer la legislaci¨®n de su pa¨ªs.
+- **Dependencia de infraestructura:** No se garantiza un 100% de tiempo de actividad.
+- **No una garantÃ­a de anonimato completo:** La privacidad depende del comportamiento del usuario.
+- **Restricciones legales:** Los usuarios son responsables de cumplir con las leyes de su paÃ­s.
 
-## ?? Agradecimientos
+## ğŸ– Agradecimientos
 
-?? A la comunidad de **WireGuard** por su desarrollo.  
-?? A nuestros usuarios por confiar en nosotros.  
+ğŸŒŸ A la comunidad de **WireGuard** por su desarrollo.  
+ğŸ™ A nuestros usuarios por confiar en nosotros.  
 
-?? **Obt¨¦n tu acceso ahora y protege tu privacidad.**
+ğŸš€ **ObtÃ©n acceso ahora y protege tu privacidad.**
