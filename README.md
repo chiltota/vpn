@@ -10,8 +10,8 @@ Si prefieres leer en español, [haz clic aquí para ver la versión en español]
 
 - [Description](#-description)
 - [Pricing](#-pricing)
-- [How to Get the Service](#how-to-get-the-service)
-- [Configuration Instructions](#configuration-instructions)
+- [How to Get the Service](#-how-to-get-the-service)
+- [Configuration Instructions](#-configuration-instructions)
 - [Advantages and Benefits](#-advantages-and-benefits)
 - [Limitations](#-limitations)
 - [Support Request](#-support-request)
