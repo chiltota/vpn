@@ -86,10 +86,15 @@ Si prefieres leer en inglés, [haz clic aquí para ver la versión en inglés](R
 ## ⚠ Limitaciones
 
 📆 **Plan mensual único:** 30 días por pago.  
+
 💰 **Métodos de pago:** Solo Bitcoin y Tarjeta de Crédito.  
-📶 **Conexión limitada a 1 dispositivo simultáneo.** 
-📶 **No se garantiza desbloqueo en webs como Netflix. Etc.** 
-❌ **Uso responsable:** Las actividades ilegales están estrictamente prohibidas.  
+
+📶 **Conexión limitada a 1 dispositivo simultáneo.**  
+
+🚫 **No se garantiza desbloqueo en webs como Netflix, etc.**  
+
+⚠️ **El exceso desmedido en consumo de ancho de banda podría afectar tu servicio.**  
+
 
 ## 🆘 Solicitud de Soporte
 
@@ -101,6 +106,7 @@ Si prefieres leer en inglés, [haz clic aquí para ver la versión en inglés](R
 - **Dependencia de infraestructura:** No se garantiza un 100% de tiempo de actividad.
 - **No una garantía de anonimato completo:** La privacidad depende del comportamiento del usuario.
 - **Restricciones legales:** Los usuarios son responsables de cumplir con las leyes de su país.
+- ⚖️ **No promovemos actividades ilegales con el uso de VPN. El usuario es responsable de sus actos.** 
 
 ## 🎖 Agradecimientos
 
