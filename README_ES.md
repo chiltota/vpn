@@ -10,7 +10,7 @@ Si prefieres leer en inglés, [haz clic aquí para ver la versión en inglés](R
 
 - [Descripción](#-descripción)
 - [Precios](#-precios)
-- [Pasos para contratar el Servicio](#️-pasos-para-contratar-el-servicio)
+- [Pasos para contratar el Servicio](#-pasos-para-contratar-el-servicio)
 - [Instrucciones de Configuración](#-instrucciones-de-configuración)
 - [Ventajas y Beneficios](#-ventajas-y-beneficios)
 - [Limitaciones](#-limitaciones)
