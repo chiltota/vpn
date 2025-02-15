@@ -1,8 +1,8 @@
 # Chiltota VPN - Secure & Anonymous with WireGuard and Bitcoin (Lightning)
 
-*"You lose nothing, you gain privacy"*
+**_You lose nothing, you gain privacy_**
 
-Welcome to the documentation for **ChiltotaVPN**.
+Welcome to the documentation for **Chiltota VPN**.
 
 Si prefieres leer en español, [haz clic aquí para ver la versión en español](README_ES.md).
 
@@ -11,7 +11,7 @@ Si prefieres leer en español, [haz clic aquí para ver la versión en español]
 - [Description](#-description)
 - [Pricing](#-pricing)
 - [How to Get the Service](#️-how-to-get-the-service)
-- [Usage Instructions](#-usage-instructions)
+- [Configuration Instructions](#-usage-instructions)
 - [Advantages and Benefits](#-advantages-and-benefits)
 - [Limitations](#-limitations)
 - [Support Request](#-support-request)
@@ -24,8 +24,9 @@ Si prefieres leer en español, [haz clic aquí para ver la versión en español]
 
 ## 💰 Pricing
 
-✔ **Monthly Plan:** $12.99 USD for 30 days of service.  
-💳 **Payment Methods:** Bitcoin (Lightning) and Credit Card.
+✔ **Monthly Plan:** $4.00 USD for 30 days of service.  
+💳 **Payment Methods:** Bitcoin (Lightning) and Credit Card.  
+> **Note:** A 3% additional fee will be applied for payments made with credit card.
 
 ## ❓ How to Get the Service?
 
@@ -39,7 +40,7 @@ Si prefieres leer en español, [haz clic aquí para ver la versión en español]
 6. **Download the configuration file:** After payment, the bot will provide your **WireGuard** file.
 7. **Set it up and browse securely.**
 
-## 📖 Usage Instructions
+## 📖 Configuration Instructions
 
 ### **Prerequisites**
 
