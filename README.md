@@ -87,9 +87,9 @@ Si prefieres leer en español, [haz clic aquí para ver la versión en español]
 
 📆 **Single monthly plan:** 30 days per payment.  
 💰 **Payment methods:** Only Bitcoin and Credit Card.  
-📶 **Connection limited to 1 simultaneous device.**
-📶 **Unlocking on websites like Netflix, etc., is not guaranteed.**
-❌ **Responsible use:** Illegal activities are strictly prohibited.  
+📶 **Connection limited to 1 simultaneous device.**  
+📶 **Unlocking on websites like Netflix, etc., is not guaranteed.**  
+⚠️ **Excessive bandwidth consumption may affect your service.**  
 
 ## 🆘 Support Request
 
@@ -98,9 +98,10 @@ Si prefieres leer en español, [haz clic aquí para ver la versión en español]
 
 ## ⚖ Disclaimer
 
-- **Infrastructure dependency:** 100% uptime is not guaranteed.
-- **Not a complete anonymity guarantee:** Privacy depends on user behavior.
-- **Legal restrictions:** Users are responsible for complying with their country's laws.
+- **Infrastructure dependency:** 100% uptime is not guaranteed.  
+- **Not a complete anonymity guarantee:** Privacy depends on user behavior.  
+- **Legal restrictions:** Users are responsible for complying with their country's laws.  
+- ⚖️ We do not promote illegal activities with the use of a VPN. The user is responsible for their actions.
 
 ## 🎖 Acknowledgments
 
