@@ -1,3 +1,5 @@
+![Chiltota VPN Logo](https://vpn.chiltota.xyz/images/logo_vpn_redondo_small.png)
+
 # Chiltota VPN - Secure & Anonymous with WireGuard and Bitcoin (Lightning)
 
 **_You lose nothing, you gain privacy_**
