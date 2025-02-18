@@ -10,7 +10,7 @@ Welcome to the documentation for **Chiltota VPN**.
 
 Si prefieres leer en [Español], [haz clic aquí para ver la versión en español](README_ES.md).
 
-🔗 [Visita el Sitio Web ](https://www.vpn.chiltota.xyz)
+🔗 [Visit the Website](https://www.vpn.chiltota.xyz)
 
 ## 📌 Index
 
