@@ -8,7 +8,9 @@
 
 Bienvenido a la documentación de **Chiltota VPN**.
 
-Si prefieres leer en inglés, [haz clic aquí para ver la versión en inglés](README.md).
+Si prefieres leer en [Inglés] ⚡, [haz clic aquí para ver la versión en español](README.md).
+
+🔗 [Visit the Website ](https://www.vpn.chiltota.xyz)
 
 ## 📌 Índice
 
