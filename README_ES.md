@@ -106,7 +106,7 @@ If you prefer to read in [English] ⚡, [click here to see the English version](
 
 ## 🆘 Solicitud de Soporte
 
-📧 **Correo electrónico:** [chiltota@proton.me](mailto:chiltota@proton.me)  
+📧 **Correo electrónico:** [chiltota@tutamail.com](mailto:chiltota@tutamail.com)  
 💬 **Telegram:** [https://t.me/IshiOk](https://t.me/IshiOk)  
 
 ## ⚖ Descargo de Responsabilidad
