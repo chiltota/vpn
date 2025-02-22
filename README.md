@@ -101,7 +101,7 @@ Si prefieres leer en [Español], [haz clic aquí para ver la versión en españo
 
 ## 🆘 Support Request
 
-📧 **Email:** [chiltota@proton.me](mailto:chiltota@proton.me)  
+📧 **Email:** [chiltota@tutamail.com](mailto:chiltota@tutamail.com)  
 💬 **Telegram:** [https://t.me/IshiOk](https://t.me/IshiOk)  
 
 ## ⚖ Disclaimer
