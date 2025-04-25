@@ -30,7 +30,7 @@ Si prefieres leer en [Español], [haz clic aquí para ver la versión en españo
 
 ## 💰 Pricing
 
-✔ **Monthly Plan:** 💸 $4.00 USD for 30 days of service **(promotional launch price)**.
+✔ **Monthly Plan:** 💸 $3.00 USD for 30 days of service **(promotional launch price)**.
 
 💳 **Payment Methods:** Bitcoin (Lightning) and Credit Card.
 
